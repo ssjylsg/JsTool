@@ -92,4 +92,4 @@ tool.createPdf(files, targetFile)
 // files   html文件数组 
 // targetFile 生成的PDF 文件地址 
 ```
-李世岗<lishigang@netposa.com>
+ssjylsg<ssjylsg@126.com>
